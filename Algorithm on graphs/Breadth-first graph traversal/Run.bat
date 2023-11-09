@@ -1,0 +1,1 @@
+main.exe Input.txt Output.txt
